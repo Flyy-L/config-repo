@@ -9,3 +9,5 @@ spring:
     name: order
 server:
   port: 8080
+env:
+  dev

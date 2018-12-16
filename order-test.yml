@@ -10,4 +10,4 @@ spring:
 server:
   port: 8080
 env:
-  test3
+  test4
